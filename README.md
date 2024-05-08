@@ -17,3 +17,11 @@ The web application provides a user-friendly interface to interact with this dat
 
 - **PostgreSQL**: As the relational database to store all the anime-related data.
 - **Streamlit UI**: For building the user interface of the web application.
+
+### Image 
+
+<img src="okno1.PNG" alt="JavaPaint Screenshot">
+
+### Image Structure Database
+
+<img src="Untitled.png" alt="JavaPaint Screenshot">
